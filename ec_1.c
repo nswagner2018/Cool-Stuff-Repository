@@ -8,9 +8,9 @@
 
 int main(void)
 {
-	int std;
+	float std;
 
 	printf("Please Enter an Integer Here: ");
-	scanf("%d", &std);
-	printf("%d", std);
+	scanf("%f", &std);
+	printf("%f", std);
 }
